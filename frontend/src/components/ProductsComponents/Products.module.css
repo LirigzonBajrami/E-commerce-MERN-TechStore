@@ -1,0 +1,17 @@
+.product-container {
+  margin-top: 32px;
+  background-color: ccc;
+  padding: 10px;
+}
+
+.merreMenjehere {
+  width: 100%;
+  object-fit: fill;
+  margin-bottom: 22px;
+  max-height: 340px;
+}
+
+.products {
+  display: flex;
+  justify-content: center;
+}

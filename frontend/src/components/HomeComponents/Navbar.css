@@ -1,0 +1,44 @@
+.bg-navbar {
+  background-color: #111111;
+}
+
+.navbar span {
+  color: #e15726;
+  font-weight: 500;
+}
+
+.shopping-cart {
+  background-color: #333333;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.shopping-cart span {
+  color: #fff;
+  font-size: 16px;
+}
+
+.cart-icon {
+  color: #e15726;
+}
+
+.size {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+}
+
+.size a {
+  text-decoration: none;
+}
+
+.bg-cart {
+  background-color: #e15726;
+}
+.text-blue {
+  color: blue;
+}

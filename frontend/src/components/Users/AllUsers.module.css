@@ -1,0 +1,13 @@
+.userPage {
+  padding: 40px;
+  overflow: scroll;
+}
+.user {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #e15726;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
